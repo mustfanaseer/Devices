@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = 'circuit_simulator_full'
