@@ -1,7 +1,7 @@
-name: circuit_simulator_full
-description: Full Project Skeleton - Workbench-style circuit simulator (Flutter).
+name: circuitsim
+description: CircuitSim - Workbench-style circuit simulator (Flutter) - Arabic RTL MVP
 publish_to: "none"
-version: 0.0.1
+version: 0.1.0
 
 environment:
   sdk: ">=2.18.0 <4.0.0"
@@ -10,6 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  uuid: ^3.0.6
 
 flutter:
   uses-material-design: true

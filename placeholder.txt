@@ -1,1 +1,1 @@
-assets placeholder
+assets placeholder for CircuitSim

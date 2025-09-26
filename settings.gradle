@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = 'circuit_simulator_full'
+rootProject.name = 'circuitsim'
